@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20a493fc-8086-4729-904e-58cdd3f60614" name="Default Changelist" comment="Homework 1&#10;added img width&#10;remove figure logo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iT2MeFSJf7O2Aehk0DybpNWTqt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a493fc-8086-4729-904e-58cdd3f60614" name="Default Changelist" comment="" />
+      <created>1601917214544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601917214544</updated>
+      <workItem from="1601917215633" duration="2800000" />
+      <workItem from="1601966676830" duration="4061000" />
+      <workItem from="1602092377553" duration="902000" />
+      <workItem from="1602175192551" duration="3673000" />
+      <workItem from="1602225369811" duration="322000" />
+      <workItem from="1602244918396" duration="2080000" />
+      <workItem from="1602406140396" duration="931000" />
+      <workItem from="1602481403038" duration="370000" />
+    </task>
+    <task id="LOCAL-00001" summary="Homework 1&#10;Added semantic markup">
+      <created>1602004879709</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602004879709</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework 1&#10;Added images and logo">
+      <created>1602092736385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602092736385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework 1&#10;Added images and logo">
+      <created>1602093109278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602093109278</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework 1&#10;fix lists">
+      <created>1602180158438</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602180158438</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework 1&#10;added img width&#10;remove figure logo">
+      <created>1602481475297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602481475297</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework 1&#10;Added semantic markup" />
+    <MESSAGE value="Homework 1&#10;Added images and logo" />
+    <MESSAGE value="Homework 1&#10;fix lists" />
+    <MESSAGE value="Homework 1&#10;added img width&#10;remove figure logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 1&#10;added img width&#10;remove figure logo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602481483939">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="582" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/54.27.1866.1053@54.27.1866.1053" timestamp="1602481483939" />
+    <state x="816" y="118" width="332" height="877" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1602247891292">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="816" y="118" width="332" height="877" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/54.27.1866.1053@54.27.1866.1053" timestamp="1602247891292" />
+  </component>
+</project>
